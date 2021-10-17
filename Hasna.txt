@@ -1,6 +1,12 @@
 G231190172 - HASNA NABILA ZAHIDAH - USM JAYA
 
+<<<<<<< HEAD
 
 Fakultas Teknologi Informasi dan Komunikasi
 
 Kota Semarang, Jawa Tengah, Indonesia
+=======
+Universitas Semarang
+
+Jl.Soekarno-Hatta, Tlogosari Kulon
+>>>>>>> sub-0172-HNZ
