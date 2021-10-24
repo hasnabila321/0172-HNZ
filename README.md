@@ -1,2 +1,1 @@
-# 0172-HNZ
-pembelajaran Git dan Github
+G.231.19.0172- HNZ Kota Semarang
